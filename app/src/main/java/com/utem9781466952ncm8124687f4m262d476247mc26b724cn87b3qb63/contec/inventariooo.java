@@ -10,5 +10,14 @@ public class inventariooo extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inventariooo);
+
+        logica();
+    }
+
+
+    private void logica() {
+        //logica para cargsr la VI
     }
 }
+
+
